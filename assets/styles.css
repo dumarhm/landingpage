@@ -1,0 +1,40 @@
+body {
+    margin: 0 !important;
+    font-family: sans-serif;
+}
+
+h1 {
+    color: orange;
+}
+
+hr {
+    margin: 0 !important;
+    border-color: orange;
+}
+
+.top_container {
+    position: relative;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.intro {
+    display: flex;
+    justify-content: center;
+    margin-top: 5rem;
+}
+
+.profile_picture {
+    width: 35rem;
+    vertical-align: middle;
+}
+
+.basic_info {
+    text-align: right;
+    margin: auto 0;
+    max-width: 30rem;
+}
+
+.basic_info p {
+    font-size: large;
+}
